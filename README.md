@@ -42,8 +42,10 @@ Fonts Library پڕۆژەیەکی مۆدێرنە کە بە Laravel دروستکر
 git clone https://github.com/nio-fa/fonts-library.git
 cd fonts-library-main
 
+```bash
 composer install
 
+```bash
 npm install
 npm run build
 

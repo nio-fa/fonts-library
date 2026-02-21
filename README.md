@@ -44,7 +44,7 @@
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/nio-fa/fonts-library.git
+git clone https://github.com/iykigi/fonts-library.git
 cd fonts-library-main
 ```
 
